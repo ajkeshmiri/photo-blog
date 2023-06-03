@@ -1,0 +1,15 @@
+img {
+    width: 30%;
+    margin: calc(10%/6);
+    padding: 1em 0;
+}
+
+nav {
+    font-family: montserrat;
+    text-transform: uppercase;
+    border-bottom: 2px grey solid;
+    font-size: 1.5em;
+    width: 40%;
+    margin-left: calc(10%/6);
+    padding: 1.2em 0;
+}

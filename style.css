@@ -25,6 +25,9 @@ nav h1 {
     margin: 0;
     padding: 0
 }
+span{
+    text-justify: center;
+}
 
 .profilePic {
     border-radius: 1em;
@@ -50,4 +53,8 @@ nav h1 {
     width: 100%;
     height: 100%;
     object-fit: contain;
+}
+
+.hidden{
+    display:none;
 }
